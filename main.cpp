@@ -5,9 +5,7 @@ int main() {
 
 	printf("Hello Github World!\n");
 
-	std::cout << "New branch changed\n";
-
-	std::cout << "third branch\n";
+	std::cout << "Github Clone changed\n";
 
 	printf("\nAny key please...\n");
 	int any;
